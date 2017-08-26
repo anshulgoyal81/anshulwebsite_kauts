@@ -1,5 +1,5 @@
 ---
-baseURL: 'https://www.anshulgoyal.in'
+baseURL: 'http://www.anshulgoyal.in'
 relativeURLs: true
 canonifyurls: true
 enableRobotsTXT: true

@@ -10,7 +10,7 @@ pygmentsStyle: emacs
 
 author: Anshul Goyal
 title: Anshul Goyal
-theme: hugo-goa
+theme: goa
 
 blackfriday:
   hrefTargetBlank: true

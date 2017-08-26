@@ -1,0 +1,41 @@
+---
+baseURL: 'https://www.anshulgoyal.in'
+relativeURLs: true
+canonifyurls: true
+enableRobotsTXT: true
+languageCode: en-us
+metaDataFormat: yaml
+pygmentsCodeFences: true
+pygmentsStyle: emacs
+
+author: Anshul Goyal
+title: Anshul Goyal
+theme: hugo-goa
+
+blackfriday:
+  hrefTargetBlank: true
+
+params:
+  intro: Anshul Goyal
+  description: Bla, Bla
+  authorimage: authorImage.jpg
+  enableRSS: true
+  dateFormat: 'Jan 2, 2006'
+  travisRepo: activatedgeek/website
+  extra:
+    copyright: '&copy; 2017. Anshul Goyal.'
+    poweredBy: true
+    facebookProfileId: 1233718306710372
+  social:
+    github: kautsiitd
+    stackoverflow: 4614493/kautsya-kanu?tab=profile
+    codeChef: kauts_kanu
+    codeChefDiscuss: 70101/kauts_kanu
+    linkedin: kautsya-kanu-a0328293
+    facebook: kautsya.kanu
+    email: kautsiitd@gmail.com
+  menu:
+    main:
+      - name: ""
+        url: /files/Resume.pdf
+        weight: 1

@@ -17,22 +17,17 @@ blackfriday:
 
 params:
   intro: Anshul Goyal
-  description: Bla, Bla
+  description: Kuch krke dikhana hai.. :D :p
   authorimage: authorImage.jpg
   enableRSS: true
   dateFormat: 'Jan 2, 2006'
   extra:
     copyright: '&copy; 2017. Anshul Goyal.'
     poweredBy: true
-    facebookProfileId: 1233718306710372
   social:
-    github: kautsiitd
-    stackoverflow: 4614493/kautsya-kanu?tab=profile
-    codeChef: kauts_kanu
-    codeChefDiscuss: 70101/kauts_kanu
-    linkedin: kautsya-kanu-a0328293
-    facebook: kautsya.kanu
-    email: kautsiitd@gmail.com
+    linkedin: anshulgoyal81
+    facebook: anshulgoyal81
+    email: anshul.goyal.81@gmail.com
   menu:
     main:
       - name: ""
